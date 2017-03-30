@@ -1,0 +1,193 @@
+@charset "utf-8";
+@charset "utf-8";
+
+/*tab*/
+
+.slideTxtBox {
+	width: 1000px;
+	margin: auto;
+	/*height: 875px;*/
+	overflow: hidden;
+	background: url("../img/zhuzi.jpg") no-repeat right bottom !important;
+}
+
+.slideTxtBox .hd {
+	float: left;
+	margin-top: 20px;
+	height: 88px;
+	width: 120px;
+	position: relative;
+}
+
+.slideTxtBox .hd ul {
+	float: left;
+	position: absolute;
+	height: 88px;
+	width: 120px;
+}
+
+.slideTxtBox .hd ul li {
+	width: 120px;
+	text-align: center;
+	line-height: 44px;
+	font-family: SimHei;
+	font-size: 16px;
+	cursor: pointer;
+	color: #abaaaa;
+}
+
+.slideTxtBox .hd ul li.on {
+	width: 120px;
+	line-height: 44px;
+	color: #555555;
+	font-family: SimHei;
+	background: url("../img/smenu_bg.png")!important;
+	font-size: 16px;
+	cursor: pointer;
+}
+
+.slideTxtBox .bd {
+	margin-top: 20px;
+	width: 880px;
+	float: right;
+	zoom: 1;
+}
+
+.slideTxtBox .bd .bd_1 .bd_1_div,
+.slideTxtBox .bd .bd_2 {
+	width: 98%;
+	float: right;
+	line-height: 32px;
+}
+
+.slideTxtBox .bd .bd_1 .bd_1_div span {
+	font-size: 16px;
+	color: #0E0E0E;
+}
+
+.slideTxtBox .bd .bd_1 .bd_1_div p {
+	font-size: 14px;
+	color: #B5B5B5;
+}
+
+.slideTxtBox .bd .bd_1 .bd_1_div p span {
+	font-family: SimHei;
+	color: #66667A;
+	font-size: 14px;
+}
+
+.slideTxtBox .bd .bd_1 .bd_margin_t {
+	margin-top: 40px;
+}
+
+.slideTxtBox .bd .bd_2 .bd_2_1 {
+	margin: 10px 0 30px 0;
+}
+
+.slideTxtBox .bd .bd_2 .bd_2_1 p {
+	color: #666666;
+	font-size: 14px;
+}
+
+.slideTxtBox .bd .bd_2 .bd_2_2 {
+	width: 100%;
+}
+
+.slideTxtBox .bd .bd_2 .bd_2_2 a {
+	display: block;
+	float: left;
+	margin-right: 5px;
+	margin-top: 10px;
+}
+
+.slideTxtBox .bd .bd_2 .bd_2_2 a img {
+	opacity: .69;
+}
+
+.slideTxtBox .bd .bd_2 .bd_2_2 a img:hover {
+	opacity: 1;
+}
+
+
+/*tab*/
+
+
+/*图片*/
+
+.tupian {
+	width: 100%;
+	height: 215px;
+}
+
+.tupian img {
+	width: 100%;
+	height: 215px;
+}
+
+
+/*图片*/
+
+
+/*公司简介*/
+
+.slideTxtBox .hd_4 {
+	height: 176px;
+}
+
+.slideTxtBox .hd_4 ul {
+	height: 176px;
+}
+
+.slideTxtBox .bd .bd_1,
+.slideTxtBox .bd .bd_4 {
+	width: 100%;
+	margin-bottom: 45px;
+	line-height: 2;
+	font-size: 16px;
+}
+
+.slideTxtBox .bd .bd_1 p,
+.slideTxtBox .bd .bd_4 p {
+	text-indent: 2em;
+	margin-bottom: 25px;
+}
+
+.slideTxtBox .bd .bd_4 span a {
+	color: #3399FF;
+	font-size: 14px;
+}
+
+.slideTxtBox .bd .bd_3 {
+	width: 100%;
+	padding: 5px;
+	margin-bottom: 50px;
+	line-height: 35px;
+	font-size: 16px;
+}
+
+.slideTxtBox .bd .bd_3 p {
+	color: #abaaaa;
+}
+
+.slideTxtBox .bd .bd_3 p span {
+	color: #66667a;
+	font-family: SimHei;
+	font-size: 14px;
+}
+
+.slideTxtBox .bd .bd_2 ul {
+	width: 100%;
+    margin-bottom: 45px;
+}
+
+.slideTxtBox .bd .bd_2 ul  li{
+  width: 100%;
+  height: 120px;
+  margin: auto;
+}
+.slideTxtBox .bd .bd_2 ul  li img{
+	display: block;
+	margin: auto;
+}
+
+/*公司简介*/
